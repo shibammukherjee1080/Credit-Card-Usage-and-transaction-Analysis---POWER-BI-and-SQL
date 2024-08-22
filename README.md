@@ -7,11 +7,14 @@ Languages used to build this project are:
 
 # **Revenue Analysis and Strategic Insights**
 
----
 
 ## **1. Executive Summary**
 
-This report provides an analysis of the company’s financial and customer data to identify key revenue drivers, customer behavior patterns, and strategic opportunities for growth. The report highlights the overall financial performance, demographic contributions, regional influences, and income-based spending patterns. Actionable steps are suggested to diversify revenue streams and capitalize on high-income customer segments.
+This report consists of 2 Dashboads - Transaction Dashboard and Customer Dashboard . The 2 dashboards provides an analysis of the company’s financial and customer data to identify key revenue drivers, customer behavior patterns, and strategic opportunities for growth. The report highlights the overall financial performance, demographic contributions, regional influences, and income-based spending patterns. Actionable steps are suggested to diversify revenue streams and capitalize on high-income customer segments.
+
+<img width="869" alt="Credit Card Transaction Report" src="https://github.com/user-attachments/assets/2cc5ebac-1148-4764-8bf4-715f470ae368">
+
+<img width="869" alt="Credit Card Customer Report" src="https://github.com/user-attachments/assets/8860040c-6ae6-489d-bdf3-ca134b55cf1f">
 
 ---
 
